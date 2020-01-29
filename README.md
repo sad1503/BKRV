@@ -3,11 +3,11 @@
 ## About
 Our aim was to create an online platform that allows users to freely share their experience and opinion about restaurants all around the world with the community.
 
-A web application built on PHP.
+A web application built with PHP.
 
 The source code for the entire project is available in this repository. 
 
-Another version of the project built on Django framework is also available at:
+Another version of the project built with Django framework is also available at:
 
 https://github.com/vuduc153/Restaurants-Review-Django
 
